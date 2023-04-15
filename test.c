@@ -3,7 +3,12 @@
 int main()
 {
    printf("test master\n");
-   return 0;
+   printf("test master..\n");
+   printf("test master....\n");
+   printf("test master.....\n");
+   printf("test master......\n");
+   printf("test master.......\n");
+   printf("test master.........\n");
 
-
+   return 0
 }
