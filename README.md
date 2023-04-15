@@ -49,3 +49,39 @@
 > 一级引用
 >> 二级引用
 >>> 三级引用
+
+
+# 表格
+
+姓名|技能|战力
+--|:-:|-:
+张飞|睁眼睡觉|90
+刘备|逃跑|6
+关羽|疼痛耐受|92
+
+
+# 插入代码
+```c
+    #include<stdio.h>
+    int main(void)
+    {
+      printf("c langage\n");
+      return 0;
+    }
+```
+```bash
+     sudo apt-get install libssl-dev
+     echo 数据回显
+```
+```cpp
+
+```
+```python
+
+```
+
+# 超链接
+[Github官网](https://github.com "点击进入github")
+
+[图片名](图片地址 “悬停关键字”)
+
